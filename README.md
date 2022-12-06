@@ -1,2 +1,2 @@
 # calculadora
-Calculadora com Java Script
+https://gabrieldantas07.github.io/calculadora/
